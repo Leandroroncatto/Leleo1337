@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  🔭 Currently studying java
+  🔭 Currently learning java
   
   🌱 Focusing on backend development, APIs, and architecture
   
